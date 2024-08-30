@@ -27,7 +27,11 @@ replay_pid*
 target
 target/*
 
-
 # intellij IDEA files
 .idea
+.idea/*
+*.iml
+*.ipr
+*.iws
+
 
